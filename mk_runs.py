@@ -25,7 +25,7 @@ on["HATLAS-L9"] = [ 106745, 106746, 106747, 106749, 106750, 106751, 106753,
                     106877, 106878, 106879,]
 
 pars1 = {}
-pars1["HATLAS-L9"] = ""
+pars1["HATLAS-L9"] = "speczoom=91,3"
 
 pars2 = {}
 pars2["HATLAS-L9"] = "srdp=1 admit=0"
