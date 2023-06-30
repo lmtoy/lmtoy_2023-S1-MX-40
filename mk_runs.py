@@ -32,5 +32,5 @@ pars2["HATLAS-L9"] = "srdp=1 admit=0"
 
 
 if __name__ == "__main__":
-    runs.mk_runs(project, on, pars1, pars2)
+    runs.mk_runs(project, on, pars1, pars2, sys.argv)
 
